@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://download.sysinternals.com/files/Handle.zip",
+  "archive": true,
+  "executablePath": "Handle64exe"
+}
